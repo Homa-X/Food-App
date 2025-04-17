@@ -53,7 +53,7 @@ Welcome to Food App, a simple and stylish web application where you can search f
 ![Meal Details](./Screenshot/MealDetails.PNG)
 
 ❤️ Added to Favorites
-![AddedtoFavorites](Screenshot/AddedToFavorites.PNG)
+![Added to Favorites](Screenshots/AddedToFavorites.PNG)
 
 ⭐ Favorites List Page
 ![Favorites List](./Screenshot/FavoritesList.PNG)
