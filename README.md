@@ -38,25 +38,25 @@ Welcome to Food App, a simple and stylish web application where you can search f
 📸 Screenshots
 
 🏠 Home Page
-![Home](Screenshot/Home.PNG)
+![Home](Screenshots/Home.PNG)
 
 🍗 Search Result: Chicken Meals
-![Chicken Meals](./Screenshot/ChickenMeals.PNG)
+![Chicken Meals](Screenshots/ChickenMeals.PNG)
 
 🕵️ No Meals Found
-![No Meals Found](./Screenshot/NoMealsFound.PNG)
+![No Meals Found](Screenshots/NoMealsFound.PNG)
 
 ⚠️ Empty Search Box
-![Empty Search Box](./Screenshot/EmptySearchBox.PNG)
+![Empty Search Box](Screenshots/EmptySearchBox.PNG)
 
 📖 Meal Details
-![Meal Details](./Screenshot/MealDetails.PNG)
+![Meal Details](Screenshots/MealDetails.PNG)
 
 ❤️ Added to Favorites
 ![Added to Favorites](Screenshots/AddedToFavorites.PNG)
 
 ⭐ Favorites List Page
-![Favorites List](./Screenshot/FavoritesList.PNG)
+![Favorites List](Screenshots/FavoritesList.PNG)
 
 📬 Contact
 
