@@ -34,30 +34,12 @@ Welcome to Food App, a simple and stylish web application where you can search f
 4. Start the development server:
    npm run dev
 
-📁 Project Structure
-
-food-app/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── bg.PNG
-├── Screenshots/
-│   ├── AddedToFavorites.PNG
-│   ├── ChickenMeals.PNG
-│   ├── EmptySearchBox.PNG
-│   ├── FavoritesList.PNG
-│   ├── Home.PNG
-│   ├── MealDetails.PNG
-│   └── NoMealsFound.PNG
-└── README.md
 
 📸 Screenshots
 
 🏠 Home Page
-[Screenshot: Home.PNG]
+[[Screenshot: Home.PNG]
+https://github.com/Homa-X/Food-App/blob/main/Screenshots/AddedToFavorites.PNG
 
 🍗 Search Result: Chicken Meals
 [Screenshot: ChickenMeals.PNG]
