@@ -7,7 +7,7 @@ Welcome to Food App, a simple and stylish web application where you can search f
 
 - 🔍 Search for meals by name using TheMealDB API.
 - 📋 View detailed information about each meal.
-- ❤️ Add meals to your personal favorites list (saved in localStorage).
+- ❤️ Add meals to your personal favorites list (saved in localStorage) and remove it.
 - 🖼️ Beautiful frosted glass UI with responsive design.
 - ⚠️ Error handling for empty search and failed API responses.
 
