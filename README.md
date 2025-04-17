@@ -38,7 +38,7 @@ Welcome to Food App, a simple and stylish web application where you can search f
 📸 Screenshots
 
 🏠 Home Page
-![Home Page](./Screenshot/Home.PNG)
+![Home Page](./food/Screenshot/Home.PNG)
 
 🍗 Search Result: Chicken Meals
 ![Chicken Meals](./Screenshot/ChickenMeals.PNG)
