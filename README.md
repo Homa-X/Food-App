@@ -38,31 +38,31 @@ Welcome to Food App, a simple and stylish web application where you can search f
 📸 Screenshots
 
 🏠 Home Page
-./Screenshots/Home.PNG
+![Home Page](./Screenshot/Home.PNG)
 
 🍗 Search Result: Chicken Meals
-[Screenshot: ChickenMeals.PNG]
+![Chicken Meals](./Screenshot/ChickenMeals.PNG)
 
 🕵️ No Meals Found
-[Screenshot: NoMealsFound.PNG]
+![No Meals Found](./Screenshot/NoMealsFound.PNG)
 
 ⚠️ Empty Search Box
-[Screenshot: EmptySearchBox.PNG]
+![Empty Search Box](./Screenshot/EmptySearchBox.PNG)
 
 📖 Meal Details
-[Screenshot: MealDetails.PNG]
+![Meal Details](./Screenshot/MealDetails.PNG)
 
 ❤️ Added to Favorites
-[Screenshot: AddedToFavorites.PNG]
+![Added to Favorites](./Screenshot/AddedToFavorites.PNG)
 
 ⭐ Favorites List Page
-[Screenshot: FavoritesList.PNG]
+![Favorites List](./Screenshot/FavoritesList.PNG)
 
 📬 Contact
 
 For any questions or feedback, feel free to reach out:
 
-- GitHub: your-username (https://github.com/your-username)
+- GitHub: your-username (https://github.com/Homa-X)
 
 ---
 
