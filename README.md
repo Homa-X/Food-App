@@ -38,8 +38,7 @@ Welcome to Food App, a simple and stylish web application where you can search f
 📸 Screenshots
 
 🏠 Home Page
-[[Screenshot: Home.PNG]
-https://github.com/Homa-X/Food-App/blob/main/Screenshots/AddedToFavorites.PNG
+./Screenshots/Home.PNG
 
 🍗 Search Result: Chicken Meals
 [Screenshot: ChickenMeals.PNG]
