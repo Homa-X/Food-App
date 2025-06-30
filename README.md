@@ -62,7 +62,7 @@ Welcome to Food App, a simple and stylish web application where you can search f
 
 For any questions or feedback, feel free to reach out:
 
-- GitHub: your-username (https://github.com/Homa-X)
+- GitHub: https://github.com/Homa-X
 
 ---
 
